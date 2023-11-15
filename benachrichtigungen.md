@@ -4,11 +4,11 @@ description: Alles was sie wissen müssen zum Thema Benachrichtigungen
 
 # 📨 Benachrichtigungen
 
-1. Um die Kategorie Benachrichtigungen aufzurufen muust du auf der Startseite in der mittleren Kategorienleiste die Kategorie "Benachrichtigung" auswählen.
+1. Um die Kategorie Benachrichtigungen aufzurufen musst du auf der Startseite in der mittleren Kategorienleiste die Kategorie "Benachrichtigung" auswählen.
 
 <figure><img src=".gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
-2. Sobald du das getan hast wirst du nun auf die demensprechende Ansicht weitergeleitet.
+2. Sobald du das getan hast wirst du auf die demensprechende Ansicht weitergeleitet.
 
 <figure><img src=".gitbook/assets/Screenshot 2023-11-03 112532.png" alt=""><figcaption><p>"Auswahl der vers. Benachrichtigungen"</p></figcaption></figure>
 
