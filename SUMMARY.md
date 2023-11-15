@@ -1,0 +1,17 @@
+# Table of contents
+
+* [✅ Anmeldung und Registrierung](README.md)
+* [📂 Alles zum Thema Benefits](alles-zum-thema-benefits.md)
+* [📧 Wie funktioniert der neue Messenger ?](wie-funktioniert-der-neue-messenger.md)
+* [📌 Wie funktioniert die Pinnwand ?](wie-funktioniert-die-pinnwand.md)
+* [📚 Wie lege ich Schichten an?](wie-lege-ich-schichten-an.md)
+* [👤 Profilkonfiguration](profilkonfiguration.md)
+* [📑 Anfragen & Berichte](anfragen-and-berichte.md)
+* [☁ Was ist das Medienzentrum ?](was-ist-das-medienzentrum.md)
+* [⚡ Was sind Schnell-Links und wie erstelle ich sie ?](was-sind-schnell-links-und-wie-erstelle-ich-sie.md)
+* [🕞 Wie benutze ich die Stechuhr ?](wie-benutze-ich-die-stechuhr.md)
+* [🗺 Zeiten und Pläne](zeiten-und-plaene.md)
+* [💯 Punkteshop](punkteshop.md)
+* [🆔 Benefits-Laden](benefits-laden.md)
+* [📨 Benachrichtigungen](benachrichtigungen.md)
+* [# App-Code](app-code.md)
